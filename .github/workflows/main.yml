@@ -1,0 +1,5 @@
+git remote add origin https://github.com/sorryasshelper/project-bolt-sb1.git
+git add .
+git commit -m "Initial commit with lite CI/CD and .env setup"
+git branch -M main
+git push -u origin main
